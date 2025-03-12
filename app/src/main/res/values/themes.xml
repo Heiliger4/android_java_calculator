@@ -23,7 +23,7 @@
         <item name="android:layout_width">75dp</item>
         <item name="android:layout_height">75dp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">27dp</item>
+        <item name="android:textSize">27sp</item>
         <item name="android:gravity">center</item>
         <item name="android:padding">10dp</item>
         <item name="android:layout_margin">10dp</item>
@@ -34,7 +34,7 @@
         <item name="android:layout_width">75dp</item>
         <item name="android:layout_height">75dp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">27dp</item>
+        <item name="android:textSize">27sp</item>
         <item name="android:gravity">center</item>
         <item name="android:padding">10dp</item>
         <item name="android:layout_margin">10dp</item>
